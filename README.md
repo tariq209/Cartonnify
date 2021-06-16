@@ -1,4 +1,4 @@
-# Cartonnify
+# Cartoonify
 Cartoonify an Image with OpenCV in Python
 Python is the pool of libraries. It has numerous libraries for real-world applications. 
 One such library is OpenCV. OpenCV is a cross-platform library used for Computer Vision. 
